@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Smitha
 - 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on open source 
 - 📫 How to reach me ...
 
 <!---
